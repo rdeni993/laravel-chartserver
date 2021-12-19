@@ -1,0 +1,30 @@
+/**
+*
+*   This is basic style for charts
+*   ==============================
+*
+*/
+
+body,
+html {
+    background-color: #fcf7f7;
+}
+
+.main-menu a {
+    color: #afafaf;
+}
+
+.main-menu a:hover {
+    color: #000;
+}
+
+#faq li {
+    margin: 18px 0;
+}
+
+#faq code {
+    display: block;
+    background-color: #000;
+    color: #fff;
+    padding: 12px;
+}
